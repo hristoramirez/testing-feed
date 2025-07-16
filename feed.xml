@@ -1,8 +1,5 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>VSIX Gallery</title>
-    <id>5a7c2525-ddd8-4c44-b2e3-f57ba01a0d81</id>
-    <updated>2025-06-11T00:34:03Z</updated>
-    <subtitle>Add this feed to Visual Studio's extension manager from Tools -> Options ->
-        Environment -> Extensions and Updates</subtitle>
-    <link rel="alternate" href="https://www.vsixgallery.com" />
+  <title type="text" />
+  <id>uuid:bcecded5-97c8-4d24-96f1-7d9e16652433;id=1</id>
+  <updated>2011-04-14T21:25:48Z</updated>
 </feed>
