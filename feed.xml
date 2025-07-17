@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>VSIX Gallery</title>
   <id>5a7c2525-ddd8-4c44-b2e3-f57ba01a0d81</id>
-  <updated>2025-07-17T19:50:25Z</updated>
+  <updated>2025-07-17T20:46:35Z</updated>
   <subtitle>Add this feed to Visual Studio's extension manager from Tools -&gt; Options -&gt;
     Environment -&gt; Extensions and Updates</subtitle>
   <link rel="alternate" href="feed.xml" />
@@ -13,8 +13,8 @@
     <summary type="text">CodeMaid is an open source Visual Studio extension to cleanup and simplify
       our C#, C++, F#, VB, PHP, PowerShell, R, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS,
       JavaScript and TypeScript coding.</summary>
-    <published>2025-07-17T19:50:25Z</published>
-    <updated>2025-07-17T19:50:25Z</updated>
+    <published>2025-07-17T20:46:35Z</published>
+    <updated>2025-07-17T20:46:35Z</updated>
     <author>
       <name>Steve Cadwallader</name>
     </author>
@@ -25,6 +25,30 @@
       xmlns="http://schemas.microsoft.com/developer/vsx-syndication-schema/2010">
       <Id>9079e73d-3fbb-4e07-8dab-f44fa5d8e8b5</Id>
       <Version>12.0.300</Version>
+      <References />
+      <Rating xsi:nil="true" />
+      <RatingCount xsi:nil="true" />
+      <DownloadCount xsi:nil="true" />
+    </Vsix>
+  </entry>
+  <entry>
+    <id>e99dde0e-e023-410d-bc5d-3f76db71e3f0</id>
+    <title type="text">Open in Visual Studio Code</title>
+    <link rel="alternate" href="OpenInVsCode.vsix" />
+    <summary type="text">Adds a menu command that lets you open any solution, project, folder and
+      file in Visual Studio Code.</summary>
+    <published>2025-07-17T20:46:35Z</published>
+    <updated>2025-07-17T20:46:35Z</updated>
+    <author>
+      <name>Mads Kristensen</name>
+    </author>
+    <content type="application/octet-stream" src="OpenInVsCode.vsix" />
+    <link rel="icon" href="icons/e99dde0e-e023-410d-bc5d-3f76db71e3f0.png" />
+    <Vsix xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+      xmlns="http://schemas.microsoft.com/developer/vsx-syndication-schema/2010">
+      <Id>e99dde0e-e023-410d-bc5d-3f76db71e3f0</Id>
+      <Version>1.4.58</Version>
       <References />
       <Rating xsi:nil="true" />
       <RatingCount xsi:nil="true" />
