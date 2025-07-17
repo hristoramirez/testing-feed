@@ -2,4 +2,25 @@
   <title type="text" />
   <id>uuid:bcecded5-97c8-4d24-96f1-7d9e16652433;id=1</id>
   <updated>2011-04-14T21:25:48Z</updated>
+  <entry>
+    <id>9079e73d-3fbb-4e07-8dab-f44fa5d8e8b5</id>
+    <title type="text">CodeMaid VS2022</title>
+    <link rel="alternate" href="CodeMaid.VS2022.v12.0.300.vsix"/>
+    <summary type="text">CodeMaid is an open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, R, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.</summary>
+    <published>2025-07-17T19:50:25Z</published>
+    <updated>2025-07-17T19:50:25Z</updated>
+    <author>
+    <name>Steve Cadwallader</name>
+    </author>
+    <content type="application/octet-stream" src="CodeMaid.VS2022.v12.0.300.vsix"/>
+    <link rel="icon" href="icons/9079e73d-3fbb-4e07-8dab-f44fa5d8e8b5.png"/>
+    <Vsix xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.microsoft.com/developer/vsx-syndication-schema/2010">
+    <Id>9079e73d-3fbb-4e07-8dab-f44fa5d8e8b5</Id>
+    <Version>12.0.300</Version>
+    <References/>
+    <Rating xsi:nil="true"/>
+    <RatingCount xsi:nil="true"/>
+    <DownloadCount xsi:nil="true"/>
+    </Vsix>
+  </entry>
 </feed>
